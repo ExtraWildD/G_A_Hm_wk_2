@@ -1,0 +1,15 @@
+C:\Users\au10155\Desktop\Home_work_\C#\Lession_2\Hm_wk_2\Hm_wk_2\bin\Debug\net6.0\Hm_wk_2.exe
+C:\Users\au10155\Desktop\Home_work_\C#\Lession_2\Hm_wk_2\Hm_wk_2\bin\Debug\net6.0\Hm_wk_2.deps.json
+C:\Users\au10155\Desktop\Home_work_\C#\Lession_2\Hm_wk_2\Hm_wk_2\bin\Debug\net6.0\Hm_wk_2.runtimeconfig.json
+C:\Users\au10155\Desktop\Home_work_\C#\Lession_2\Hm_wk_2\Hm_wk_2\bin\Debug\net6.0\Hm_wk_2.dll
+C:\Users\au10155\Desktop\Home_work_\C#\Lession_2\Hm_wk_2\Hm_wk_2\bin\Debug\net6.0\Hm_wk_2.pdb
+C:\Users\au10155\Desktop\Home_work_\C#\Lession_2\Hm_wk_2\Hm_wk_2\obj\Debug\net6.0\Hm_wk_2.csproj.AssemblyReference.cache
+C:\Users\au10155\Desktop\Home_work_\C#\Lession_2\Hm_wk_2\Hm_wk_2\obj\Debug\net6.0\Hm_wk_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\au10155\Desktop\Home_work_\C#\Lession_2\Hm_wk_2\Hm_wk_2\obj\Debug\net6.0\Hm_wk_2.AssemblyInfoInputs.cache
+C:\Users\au10155\Desktop\Home_work_\C#\Lession_2\Hm_wk_2\Hm_wk_2\obj\Debug\net6.0\Hm_wk_2.AssemblyInfo.cs
+C:\Users\au10155\Desktop\Home_work_\C#\Lession_2\Hm_wk_2\Hm_wk_2\obj\Debug\net6.0\Hm_wk_2.csproj.CoreCompileInputs.cache
+C:\Users\au10155\Desktop\Home_work_\C#\Lession_2\Hm_wk_2\Hm_wk_2\obj\Debug\net6.0\Hm_wk_2.dll
+C:\Users\au10155\Desktop\Home_work_\C#\Lession_2\Hm_wk_2\Hm_wk_2\obj\Debug\net6.0\refint\Hm_wk_2.dll
+C:\Users\au10155\Desktop\Home_work_\C#\Lession_2\Hm_wk_2\Hm_wk_2\obj\Debug\net6.0\Hm_wk_2.pdb
+C:\Users\au10155\Desktop\Home_work_\C#\Lession_2\Hm_wk_2\Hm_wk_2\obj\Debug\net6.0\Hm_wk_2.genruntimeconfig.cache
+C:\Users\au10155\Desktop\Home_work_\C#\Lession_2\Hm_wk_2\Hm_wk_2\obj\Debug\net6.0\ref\Hm_wk_2.dll
